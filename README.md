@@ -34,7 +34,7 @@ and the following will be his react native course
 
 <br>
 <br>
-<h3>🔧 Technologies & Tools</h3>
+<h3>🔧  Programming languages and tools</h3>
 
  <!--Languages-->
  
