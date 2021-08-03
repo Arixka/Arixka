@@ -25,12 +25,15 @@ and the following will be his react native course
 
 <br>
 <br>
+
+ 
 <a href="https://github.com/arixka/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arixka&show_icons=true&&hide=prs&cache_seconds=86400&include_all_commits=true&theme=material-palenight" alt="Arixka's github stats" />
 </a>
 <a href="https://github.com/arixka/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arixka&layout=compact&theme=material-palenight" />
 </a>
+
 
 <br>
 <br>
@@ -73,3 +76,6 @@ and the following will be his react native course
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)
+
+
+![Codewars](https://www.codewars.com/users/Arixka/badges/micro)
