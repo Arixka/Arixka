@@ -11,10 +11,11 @@
 <h3 align="center">A passionate web developer full-stack and multiplataform</h3>
 <br>
 <br>
-<h3 align="left">:muscle: I'm currently learning</h3>
+<h3 align="left">📚  I'm currently learning</h3>
 
 I am currently learning react from scratch with Fernando Herrera 
 and the following will be his react native course
+* **[REACT: De cero a experto. Fernando Herrera](https://www.udemy.com/course/react-cero-experto/)** 
 
 
 <h3 align="left">✔️  Goals for 2021 with:</h3>
