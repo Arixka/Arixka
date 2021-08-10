@@ -11,14 +11,19 @@
 <h3 align="center">A passionate web developer full-stack and multiplataform</h3>
 <br>
 <br>
-<h3 align="left">📚 In process:</h3>
+<h3 align="left">:muscle: I'm currently learning</h3>
 
 I am currently learning react from scratch with Fernando Herrera 
 and the following will be his react native course
 
-<!---
-<h3 align="left">:muscle: Things I am challenging myself with:</h3>
 
+<h3 align="left">✔️  Goals for 2021 with:</h3>
+
+- Learning react, react native, sockets.
+- Build 30+ projects.
+- Contribute to Open Source with react components.
+
+<!---
 <h3 align="left">:computer: Programming languages and tools: </h3>
 -->
 
