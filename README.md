@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="title.svg" width="200"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="title.svg" width="220"></h1>
 
 <h3 align="center">A passionate web developer full-stack and multiplataform</h3>
 <br>
