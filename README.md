@@ -34,10 +34,10 @@ and the following will be his react native course
 
  
 <a href="https://github.com/arixka/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=arixka&show_icons=true&&hide=prs&cache_seconds=86400&include_all_commits=true&theme=material-palenight" alt="Arixka's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arixka&show_icons=true&&hide=prs&cache_seconds=86400&include_all_commits=true&theme=material-palenight" alt="Arixka's github stats" />
 </a>
 <a href="https://github.com/arixka/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arixka&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arixka&layout=compact&theme=material-palenight" />
 </a>
 
 
