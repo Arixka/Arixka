@@ -5,7 +5,7 @@
                 .rainbow {
                     text-align: center;
                     text-decoration: underline;
-                    font-size: 16px;
+                    font-size: 12px;
                     font-family: chilanka;
                 }
                 .rainbow_text_animated {
