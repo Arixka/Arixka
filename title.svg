@@ -1,11 +1,11 @@
-<svg fill="none" viewBox="0 0 80 16" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject  width="80" height="18">
+<svg fill="none" viewBox="0 0 70 16" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject  width="70" height="18">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 .rainbow {
                     text-align: center;
                     text-decoration: underline;
-                    font-size: 12px;
+                    font-size: 16px;
                     font-family: chilanka;
                 }
                 .rainbow_text_animated {
