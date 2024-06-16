@@ -1,7 +1,6 @@
 
 
-  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_Arixka_)
+
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marisiver25@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-siverio/)
 
@@ -48,7 +47,7 @@
 
  <!--Languages-->
  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=Go&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=flat&logo=Elixir&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=Javascript&logoColor=%23F7DF1E)
@@ -67,7 +66,7 @@ https://badgesgenerator.com/
 
  <!--Frameworks-->
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+![Storybook](https://img.shields.io/badge/storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-green?style=flat&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=Node.js&logoColor=white&)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=Express&logoColor=%2361DAFB)
