@@ -48,24 +48,29 @@ and the following will be his react native course
 
  <!--Languages-->
  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=Go&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=flat&logo=Elixir&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=Javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=Html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=Css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white)
+
 
 <!-- Repasar
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=Python&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=flat&logo=Elixir&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=Go&logoColor=white)
+
+[https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white
+https://img.shields.io/badge/TypeScript-%2335495e.svg?style=flat&logo=typescript&logoColor=%#3178C6](https://badgesgenerator.com/)
 -->
 
  <!--Frameworks-->
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB)
+![Storybook](https://img.shields.io/badge/storybook-gray?style=flat&logo=storybook)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=Node.js&logoColor=white&)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=Express&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=Vuedotjs&logoColor=%234FC08D)
-![NuxtJS](https://img.shields.io/badge/Nuxt-41b883?style=flat&logo=nuxt.js&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=Vuetify&logoColor=AEDDFF)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=Vuedotjs&logoColor=%234FC08D) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=Bootstrap&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white)
@@ -75,9 +80,6 @@ and the following will be his react native course
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=Mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=Postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=Mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=Firebase)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=Heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white) 
 
  <!--SO-->
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white) 
