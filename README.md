@@ -15,16 +15,16 @@
 <br>
 <h3 align="left">📚  I'm currently learning</h3>
 
-I am currently learning react from scratch with Fernando Herrera 
-and the following will be his react native course
-* **[REACT: De cero a experto. Fernando Herrera](https://www.udemy.com/course/react-cero-experto/)** 
+- 🔭 Currently working on creating microservices in Go and a library in React.
+- 🌱 Continuously learning about new technologies and best practices in software development.
+- 🛠️ Experimenting with Docker and authentication microservices.
+- 💡 Passionate about scalable software architecture and developing RESTful APIs.
 
+<h3 align="left">🎯  Goals for 2024 with:</h3>
 
-<h3 align="left">✔️  Goals for 2021 with:</h3>
-
-- Learning react, react native, sockets.
-- Build 30+ projects.
-- Contribute to Open Source with react components.
+- Build ++ projects.
+- Contribute more to open source projects.
+- Constantly learn and stay updated with new technologies
 
 <!---
 <h3 align="left">:computer: Programming languages and tools: </h3>
@@ -61,13 +61,14 @@ and the following will be his react native course
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=Python&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=flat&logo=Elixir&logoColor=white)
 
-[https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=white
-https://img.shields.io/badge/TypeScript-%2335495e.svg?style=flat&logo=typescript&logoColor=%#3178C6](https://badgesgenerator.com/)
+Aquiii
+https://badgesgenerator.com/
 -->
 
  <!--Frameworks-->
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB)
-![Storybook](https://img.shields.io/badge/storybook-gray?style=flat&logo=storybook)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-green?style=flat&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=Node.js&logoColor=white&)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=Express&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=Vuedotjs&logoColor=%234FC08D) 
@@ -75,11 +76,11 @@ https://img.shields.io/badge/TypeScript-%2335495e.svg?style=flat&logo=typescript
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=Git&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=Eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=Mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=Postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=Mysql&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=Eslint&logoColor=white)
 
  <!--SO-->
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white) 
