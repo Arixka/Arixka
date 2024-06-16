@@ -3,9 +3,9 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marisiver25@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-siverio/)
-
+<!---
 ![Codewars](https://www.codewars.com/users/Arixka/badges/micro)
-
+-->
 
 <h1 align="center"><img src="title.svg" width="250"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"> </h1>
 
