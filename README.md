@@ -19,7 +19,7 @@
 - 🛠️ Experimenting with Docker and authentication microservices.
 - 💡 Passionate about scalable software architecture and developing RESTful APIs.
 
-<h3 align="left">🎯  Goals for 2024 with:</h3>
+<h3 align="left">🎯  Goals for 2025 with:</h3>
 
 - Build ++ projects.
 - Contribute more to open source projects.
