@@ -30,7 +30,7 @@
 -->
 
 ### 🔗 Portfolio
-👉 [https://dev-blog-by-maria.vercel.app/](https://dev-blog-by-maria.vercel.app/)
+👉 [ver porfolio](https://dev-blog-by-maria.vercel.app/)
 
 
 <br>
