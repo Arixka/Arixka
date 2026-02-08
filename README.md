@@ -35,7 +35,7 @@
 
 <br>
 <br>
-
+<!---
 <a href="https://github-readme-stats.vercel.app/api?username=arixka&show_icons=true&&hide=prs&cache_seconds=86400&include_all_commits=true&theme=material-palenight">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arixka&show_icons=true&&hide=prs&cache_seconds=86400&include_all_commits=true&theme=material-palenight" alt="Arixka's github stats" />
 </a>
@@ -46,6 +46,7 @@
 
 <br>
 <br>
+-->
 <h3>🔧  Programming languages and tools</h3>
 
  <!--Languages-->
