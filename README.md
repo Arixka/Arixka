@@ -3,50 +3,56 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marisiver25@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-siverio/)
-<!---
-![Codewars](https://www.codewars.com/users/Arixka/badges/micro)
--->
+
 
 <h1 align="center"><img src="title.svg" width="250"> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70"> </h1>
 
-<h3 align="center">A passionate web developer full-stack and multiplataform</h3>
-<br>
-<br>
-<h3 align="left">📚  I'm currently learning</h3>
-
-- 🔭 Currently working on creating microservices in Go and a library in React.
-- 🌱 Continuously learning about new technologies and best practices in software development.
-- 🛠️ Experimenting with Docker and authentication microservices.
-- 💡 Passionate about scalable software architecture and developing RESTful APIs.
-
-<h3 align="left">🎯  Goals for 2026 with:</h3>
-
-- Build ++ projects.
-- Contribute more to open source projects.
-- Constantly learn and stay updated with new technologies
-
-<!---
-<h3 align="left">:computer: Programming languages and tools: </h3>
--->
-
-### 🔗 Portfolio
-👉 [ver porfolio](https://mariasiverio.vercel.app/)
-
+<h3 align="center">Senior Backend Developer | Java & Microservices Specialist</h3>
 
 <br>
 <br>
-<!---
-<a href="https://github-readme-stats.vercel.app/api?username=arixka&show_icons=true&&hide=prs&cache_seconds=86400&include_all_commits=true&theme=material-palenight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arixka&show_icons=true&&hide=prs&cache_seconds=86400&include_all_commits=true&theme=material-palenight" alt="Arixka's github stats" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=arixka&layout=compact&theme=material-palenight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arixka&layout=compact&theme=material-palenight" />
-</a>
+I am a software engineer focused on building robust, scalable, and maintainable systems. I specialize in **Java ecosystem**, **Spring Boot**, and **Microservices Architecture**, with a strong commitment to Clean Code and TDD.
+
+---
+
+### 🛠 Tech Stack
+
+- **Core Backend:** Java 17+, Spring Boot 3, Microservices, REST APIs
+- **Data & Storage:** PostgreSQL, SQL, Hibernate/JPA
+- **Architecture:** Hexagonal Architecture, Domain-Driven Design (DDD), Clean Architecture
+- **DevOps & Tools:** Docker, Jenkins, Gitflow, Maven
+- **Frontend:** React, TypeScript (Full-stack capabilities)
+
+---
+
+### 🚀 Featured Projects
+
+#### [PainCalendar Backend](https://github.com/Arixka/PainCalendar)
+A robust backend system built with **Java 17** and **Spring Boot 3**, following strict **Hexagonal Architecture**.
+- **Key Concepts:** Domain-Driven Design, Ports & Adapters Isolation, TDD with JUnit 5 & Mockito.
+- **Why it matters:** Demonstrates how to decouple business logic from frameworks for long-term maintainability.
+
+#### [Micro User Auth](https://github.com/Arixka/MicroUserAuth)
+A dedicated authentication microservice written in **Go**.
+- **Key Concepts:** JWT Security, BCrypt Hashing, Dockerized environment.
+- **Why it matters:** Shows versatility in polyglot environments and understanding of distributed security patterns.
+
+---
+
+### 📫 Connect with Me
+
+- **Portfolio:** [mariasiverio.dev](https://mariasiverio.vercel.app/) *(Check out my interactive tech stack!)*
+- **LinkedIn:** [Maria Siverio](https://www.linkedin.com/in/maria-siverio/)
+- **Email:** marisiverio25@gmail.com
+
+---
+
+*"El código se lee más veces de las que se escribe."*
 
 
 <br>
 <br>
--->
+
 <h3>🔧  Programming languages and tools</h3>
 
  <!--Languages-->
