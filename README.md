@@ -53,9 +53,10 @@ A dedicated authentication microservice written in **Go**.
 <br>
 <br>
 
+<!--
 <h3>🔧  Programming languages and tools</h3>
 
- <!--Languages-->
+
  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=Go&logoColor=white)
@@ -66,15 +67,9 @@ A dedicated authentication microservice written in **Go**.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=Css3&logoColor=white)
 
 
-<!-- Repasar
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=Python&logoColor=white)
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=flat&logo=Elixir&logoColor=white)
 
-Aquiii
-https://badgesgenerator.com/
--->
 
- <!--Frameworks-->
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB)
 ![Storybook](https://img.shields.io/badge/storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-green?style=flat&logo=spring&logoColor=white)
@@ -91,10 +86,10 @@ https://badgesgenerator.com/
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=Mysql&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=Eslint&logoColor=white)
 
- <!--SO-->
+
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white)
 
 
-
+-->
