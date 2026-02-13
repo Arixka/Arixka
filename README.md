@@ -41,7 +41,7 @@ A dedicated authentication microservice written in **Go**.
 
 ### 📫 Connect with Me
 
-- **Portfolio:** [mariasiverio.dev](https://mariasiverio.vercel.app/) *(Check out my interactive tech stack!)*
+- **Portfolio:** [mariasiverio.dev](https://mariasiverio.com/) *(Check out my interactive tech stack!)*
 - **LinkedIn:** [Maria Siverio](https://www.linkedin.com/in/maria-siverio/)
 - **Email:** marisiverio25@gmail.com
 
